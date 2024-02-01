@@ -1,0 +1,38 @@
+[
+  {
+    "title": "Quipo",
+    "image": "./projectImages/quipo.webp",
+    "technologies": "React Native | React Native Reanimated | Typescript",
+    "description": "Application mobile de dématérialisation des tickets de caisse éco-responsable. Intégration des maquettes - Animations 2D",
+    "deployed": "https://quipo-app.com",
+    "bgcolor": "hsl(261, 100%, 50%, 1)",
+    "id": "1"
+  },
+  {
+    "title": "Spart",
+    "image": "./projectImages/spart.webp",
+    "technologies": "React | React Native | Typescript | GraphQL (Apollo) | Node.js | Prisma | Figma",
+    "description": "Application mobile et son site web d’administration destinés à la promotion de l’activité physique et sportive et l’organisation d’évènements sportifs en entreprise. Intégration des maquettes - Traitement des requêtes GraphQL - Design d’éléments",
+    "deployed": "https://www.spart.life",
+    "bgcolor": "hsl(4, 93%, 70%, 1)",
+    "id": "2"
+  },
+  {
+    "title": "Fabled (HHH)",
+    "image": "./projectImages/fabled.webp",
+    "technologies": "HTML | CSS | Typescript | Three.js | Figma",
+    "description": "Site web de composants de vélos électriques avec vue 3D. Intégration des maquettes et modèles 3D, j'ai travaillé sur la première version du site présentée lors du salon Eurobike 2021",
+    "deployed": "https://fabled.eu",
+    "bgcolor": "hsl(50, 100%, 68%)",
+    "id": "3"
+  },
+  {
+    "title": "Autres projets à venir...",
+    "image": "",
+    "technologies": "",
+    "description": "",
+    "deployed": "",
+    "bgcolor": "hsl(127, 67%, 64%)",
+    "id": "4"
+  }
+]
